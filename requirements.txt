@@ -1,0 +1,17 @@
+
+streamlit
+langchain
+langchain-core
+langchain-community
+faiss-cpu
+huggingface-hub
+groq
+langchain-groq
+langchain-huggingface
+fpdf
+sentence-transformers
+reportlab
+python-dotenv
+torch
+pdfminer.six
+pypdf
